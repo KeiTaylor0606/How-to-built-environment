@@ -57,3 +57,5 @@ vue add vuex
 ```
 
 ## 参考文献
+
+- [Ubuntu に最新の Node.js を難なくインストールする](https://qiita.com/seibe/items/36cef7df85fe2cefa3ea)
