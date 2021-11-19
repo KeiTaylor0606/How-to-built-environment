@@ -23,3 +23,7 @@
    render: h => h(App)
    }).$mount('#app')
    ```
+
+## 参考文献・サイト
+
+- [Vue CLI プロジェクトに axios をインストールする](https://www.paveway.info/entry/2021/01/30/vue_axios)
