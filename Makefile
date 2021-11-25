@@ -1,7 +1,7 @@
 all:
 	git add .
 	git commit -m "commit all changes"
-	git pus origin HEAD
+	git push origin HEAD
 
 rm:
 	git add README.md
