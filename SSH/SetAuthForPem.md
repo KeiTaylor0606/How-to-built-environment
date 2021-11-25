@@ -1,6 +1,6 @@
 # Windows で pem ファイルの権限を変更する方法
 
-EC2 に VS Code から SSH Remote 接続仕様とした時に発生する、`pem`ファイルの権限トラブルについての対処法
+EC2 に VS Code から SSH Remote 接続しようとした時に発生する、`pem`ファイルの権限トラブルについての対処法
 
 # 実行手順
 
