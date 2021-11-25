@@ -74,6 +74,7 @@
    > `net.ipv4.ip_forward=1`
    > iptable を使って NAT の設定を行う。
    > 以下のコマンドを実行する
+   >
    > `sudo iptables -A FORWARD -i wlx00c0ca991258 -o enp0s3 -s 192.168.11.0/24 -j ACCEPT`
    >
    > `sudo iptables -A FORWARD -m state --state ESTABLISHED,RELATED -j ACCEPT`
