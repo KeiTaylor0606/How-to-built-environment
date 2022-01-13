@@ -21,3 +21,14 @@ npm run build
 ```
 e.Use(middleware.CORS())
 ```
+
+## `npm install -g @vue/cli`を実行した時の`Permission Error`
+### 対処法
+以下のコマンドを実行
+```
+npm config get prefix // <-これを実行してでた結果を`path`とする。
+
+sudo chmod 777 -R path
+```
+### 参考文献
+- [Vue.js 環境構築時エラーの対処法　　　(npm install -g vue-cli)](https://qiita.com/cube_3110/items/6e759e9a293d7daf0fcc)
