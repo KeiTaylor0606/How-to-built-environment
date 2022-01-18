@@ -8,7 +8,7 @@ go env
 echo $PATH
 
 # pathが通っていなければ通す
-expot PATH="$HOME/go/bin:$PATH"
+export PATH="$HOME/go/bin:$PATH"
 ```
 ### 参考文献・サイト
 - [go get後に「command not found」が出るとイラっとする件](https://selfnote.work/20210513/programming/go-error-command-not-found/)
