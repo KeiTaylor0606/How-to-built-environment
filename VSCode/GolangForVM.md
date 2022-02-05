@@ -2,7 +2,7 @@
 
 ## 1. Golang のインストール
 
-以下の手順が一番簡単に最新のものをインストールできる。アップデートもの方法でできる。
+以下の手順が一番簡単に最新のものをインストールできる。アップデートも同じ方法でできる。
 
 ```
 sudo add-apt-repository ppa:longsleep/golang-backports
