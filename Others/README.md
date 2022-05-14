@@ -29,8 +29,11 @@ Most third-party documentation and How-To's are wrong and outdated. We strongly 
 - [non-fast-forward エラーの扱い](https://docs.github.com/ja/get-started/using-git/dealing-with-non-fast-forward-errors)
 - [【Golang】GoでAWS S3にファイルをアップロードする](https://yutaabe200.hatenablog.com/entry/2019/03/12/%E3%80%90Golang%E3%80%91Go%E3%81%A7AWS_S3%E3%81%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B)
 - [What is the AWS SDK for Go](https://docs.aws.amazon.com/ja_jp/sdk-for-go/v1/developer-guide/welcome.html)
+
 ## その他
 - [速さを追い求めてaptからapt-fastへ乗り換えてみた](https://zenn.dev/ryuu/articles/fast-aptcommand)
 > なんか良さげ。
 - [RADIUS](https://github.com/layeh/radius)
 > Golangで実装されたRADIUSサーバー。使うときがもしあれば
+- [イラストで正しく理解するTLS 1.3の暗号技術](https://zenn.dev/herumi/articles/tls1_3_crypto)
+> セキュリティ関連の新人研究者としては必須かも？
