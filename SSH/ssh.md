@@ -5,18 +5,19 @@
 1. ポートフォワーディング設定
 2. SSH 有効化
    > 以下のコマンドを実行
+   > ```bash
+   > sudo apt install -y openssh-server
    >
-   > `sudo apt install -y openssh-server`
+   > sudo systemctl enable ssh
    >
-   > `sudo systemctl enable ssh`
+   > sudo systemctl restart ssh
    >
-   > `sudo systemctl restart ssh`
+   > sudo ufw enable
    >
-   > `sudo ufw enable`
+   > sudo reboot
    >
-   > `sudo reboot`
-   >
-   > `sudo ufw allow 22`
+   > sudo ufw allow 22
+   > ```
 
 ## VS Code 側
 
