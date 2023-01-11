@@ -28,3 +28,6 @@ nvm use 16.16.0
 
 ### 参考文献・サイト
 - [M2 Macにnode.jsをインストールする](https://c-limber.co.jp/blog/2610)
+  > WSLでも再現済み
+ 
+- [Node Version Manager](https://github.com/nvm-sh/nvm)
