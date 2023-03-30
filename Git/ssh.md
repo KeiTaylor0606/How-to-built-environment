@@ -5,7 +5,7 @@ GitHub では、作成したリポジトリへのアクセス認証を、SSH を
 以下のコマンドを順に実行する。ただし、GitHub に登録した時のメールアドレスを`your_email@example.com`と仮定する。
 
 ```
-ssh-keygen -t rsa -C "your_email@example.com"
+ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
 これを実行すると以下の様な結果が表示されるので、記述している指示に従う。
