@@ -32,7 +32,7 @@ The key fingerprint
 `id_rsa.pub`の内容は以下のコマンドを実行すると見れる。
 
 ```
-cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_ed25519.pub
 ```
 
 登録が正式にできれば、以下のコマンドで GitHub との認証と通信ができる（`Are you sure you want to continue connecting (yes/no)?`と出るので、`yes`と入力）。
