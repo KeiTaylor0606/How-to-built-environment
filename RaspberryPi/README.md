@@ -2,7 +2,7 @@
 
 ## ターミナル分割
 ```bash
-sudo apt install tmx
+sudo apt install tmux
 ```
 ### 起動
 ```bash
